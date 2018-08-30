@@ -1,4 +1,4 @@
-# OpenConstrctions
+# PoTENTE
 Open Contruction Blocks based on TENTE
 
 ## WORK IN PROGRESS!!
