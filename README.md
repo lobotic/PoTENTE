@@ -1,5 +1,5 @@
-# OpenC
-OpenContruction Blocks based on TENTE
+# OpenConstrctions
+Open Contruction Blocks based on TENTE
 
 ## WORK IN PROGRESS!!
 ### NOT PRINTED YET!!
