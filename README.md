@@ -18,4 +18,4 @@ Change the Module Variable to set the number of modules. The generated block wil
 |![2x8](https://github.com/lobotic/PoTENTE/blob/master/2x8/2x8.jpg)| 2x8 |[Enlace](https://github.com/lobotic/OpenC/tree/master/2x8)|
 |![low 2x8](https://github.com/lobotic/PoTENTE/blob/master/low2x8/low2x8.jpg)| low 2x8 |[Enlace](https://github.com/lobotic/OpenC/tree/master/low2x8)|
 |![Hole 2x2](https://github.com/lobotic/PoTENTE/blob/master/hole2x2/hole2x2.jpg)| Hole 2x2 |[Enlace](https://github.com/lobotic/OpenC/tree/master/hole2x2)|
-|![led](https://github.com/lobotic/PoTENTE/blob/master/led/led.jpg)| LED |[Enlace](https://github.com/lobotic/OpenC/tree/master/led)|
+|![led](https://github.com/lobotic/PoTENTE/blob/master/led/LED.jpg)| LED |[Enlace](https://github.com/lobotic/OpenC/tree/master/led)|
