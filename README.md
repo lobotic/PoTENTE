@@ -24,7 +24,7 @@ Change the Module Variable to set the number of modules. The generated block wil
 |![led](https://github.com/lobotic/PoTENTE/blob/master/led/LED.jpg)| LED |[Enlace](https://github.com/lobotic/OpenC/tree/master/led)|
 |![hole 1x2](https://github.com/lobotic/PoTENTE/blob/master/hole1x2/hole1x2.jpg)| Hole 1x2 |[Enlace](https://github.com/lobotic/OpenC/tree/master/hole1x2)|
 |![hole 1x4](https://github.com/lobotic/PoTENTE/blob/master/hole1x4/hole1x4.jpg)| Hole 1x4 |[Enlace](https://github.com/lobotic/OpenC/tree/master/hole1x4)|
-
+|![towerpro](https://github.com/lobotic/PoTENTE/blob/master/towerpro/towerpro.jpg)| Tower Pro Sg90 |[Enlace](https://github.com/lobotic/OpenC/tree/master/towerpro)|
 
 ## VIDEOS
 [![Trafic ligths](https://github.com/lobotic/PoTENTE/blob/master/images/semaforo.png)](https://youtu.be/DQeo-0c2oP4)
