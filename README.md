@@ -6,7 +6,7 @@ Open Contruction Blocks based on TENTE.
 ### CUSTOMIZE YOUR BLOCKS
 Change the Module Variable to set the number of modules. The generated block will be Modules+1 x 2. For example if you set Modules to 3 the result will be a 4 x 2 block. If you set Modules to 7 the result will be a 8 x 2 block. 
 * [Regular hight (10 mm)](https://github.com/lobotic/OpenC/tree/master/modular)
-* [Low hight (2mm)](https://github.com/lobotic/OpenC/tree/master/lowmodular) (It didn't worked for me... to low)
+* [Low hight (2mm)](https://github.com/lobotic/OpenC/tree/master/lowmodular) (It didn't worked for me... too low)
 * [Hole](https://github.com/lobotic/OpenC/tree/master/holemodular)
 
 Change the Module Variable to set the number of modules. The generated block will be Modules+1 x 1
